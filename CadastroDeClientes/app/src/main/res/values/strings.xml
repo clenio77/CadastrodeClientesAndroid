@@ -11,4 +11,10 @@
     <string name="email">Email</string>
     <string name="data_nascimento">Data de Nascimento</string>
     <string name="criar_conta">Criar Conta</string>
+
+    <!-- ACTION BAR -->
+    <string name="search">Localizar</string>
+    <string name="refresh">Atualizar</string>
+    <string name="config">Configurações</string>
+
 </resources>
